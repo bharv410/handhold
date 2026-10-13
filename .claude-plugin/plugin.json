@@ -1,0 +1,9 @@
+{
+  "name": "handhold",
+  "description": "Claude does the task itself, and when you must act, gives you exactly ONE step at a time and waits for \"done\".",
+  "version": "1.0.0",
+  "author": { "name": "Ben Harvey", "url": "https://github.com/bharv410" },
+  "repository": "https://github.com/bharv410/handhold",
+  "license": "MIT",
+  "keywords": ["skill", "walkthrough", "browser", "step-by-step"]
+}

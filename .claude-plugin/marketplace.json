@@ -1,0 +1,15 @@
+{
+  "name": "handhold",
+  "description": "The /handhold skill for Claude Code: one step at a time, Claude does the rest.",
+  "owner": {
+    "name": "Ben Harvey",
+    "url": "https://github.com/bharv410"
+  },
+  "plugins": [
+    {
+      "name": "handhold",
+      "source": "./",
+      "description": "Claude does the task itself, and when you must act, gives you exactly ONE step at a time and waits for \"done\"."
+    }
+  ]
+}
